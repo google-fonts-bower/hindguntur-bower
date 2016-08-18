@@ -1,0 +1,17 @@
+{
+    "name": "hindguntur-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Indian Type Foundry"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/hindguntur-bower.git"
+    },
+    "description": "Hind Guntur font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
